@@ -17,3 +17,5 @@ https://github.com/zhaojh329/wifidog-ng-authserver/releases
 ## Configure your wifidog-ng in your router
 
 	vi /etc/config/wifidog-ng
+
+## somechanges
